@@ -2,6 +2,9 @@
 
 Kullanıcıların gelir ve giderlerini takip etmelerine yardımcı olan bir React ve Vite tabanlı web uygulamasıdır. Kullanıcılar, gelir ve gider kalemlerini ekleyebilir, kategorilere ayırabilir ve bütçe limitlerini belirleyebilirler. Uygulama, kullanıcıların harcama limitlerine ulaşmadan önce uyarılar yaparak onları bilgilendirir. Ayrıca, gelir-gider raporları görsel olarak sunulur ve kullanıcılar geçmiş harcamalarına göre analizler yapabilirler.
 
+## Canlı link
+[Tıklayın](https://2intech.vercel.app/)
+
 ## Özellikler
 
 - **Gelir ve Gider Ekleme**: Kullanıcılar gelir ve gider kalemlerini ekleyebilir ve her kaleme bir açıklama, tutar ve tarih atayabilir.
